@@ -7,14 +7,14 @@ I've worked on multiple projects, including **e-commerce platforms**. I'm sharpe
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akhildas675) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675) 
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akhildas675) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akhildas675)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhildas675)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/akhildas675) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)
 
 ---
 
@@ -72,4 +72,3 @@ I've worked on multiple projects, including **e-commerce platforms**. I'm sharpe
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
---
