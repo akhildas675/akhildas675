@@ -1,21 +1,18 @@
-# 💫 About Me
-👋 Hi, I'm **Akhildas**, a passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+# 💫 Hi 👋🏻, I'm Akhildas H
+👋 A passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 I have a strong interest in building scalable web applications and delivering seamless user experiences. After completing a diploma in computer applications and a bootcamp, I focused on mastering **JavaScript** and backend development.  
 I've worked on multiple projects, including **e-commerce platforms**. I'm sharpening my skills in **Data Structures and Algorithms (DSA)** to enhance my problem-solving abilities. I'm always eager to explore new technologies and improve my development skills.
 
 ---
 
 ## 🌐 Socials
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/akhildas675) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/akhildas675) 
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akhildas675) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akhildas675) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/akhildas675) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/akhildas675) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akhildas675)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhildas675) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhildas675)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/akhildas675) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)
 
