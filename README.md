@@ -45,6 +45,6 @@ I've worked on multiple projects, including **e-commerce platforms**. I'm sharpe
 ---
 
 ## 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhildas675&theme=transparent&hide_border=true)
 
 
