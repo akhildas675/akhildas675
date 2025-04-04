@@ -35,7 +35,7 @@ I've worked on multiple projects, including **e-commerce platforms**. I'm sharpe
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhildas675&theme=transparent&hide_border=true)  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
 
 ---
 
