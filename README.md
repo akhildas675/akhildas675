@@ -30,11 +30,7 @@ I've worked on multiple projects, including **e-commerce platforms**. I'm sharpe
 ---
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=Canva&logoColor=white)## 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
 
 ---
