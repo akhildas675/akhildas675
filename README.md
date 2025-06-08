@@ -1,7 +1,7 @@
  # 💫 Hi 👋🏻, I'm Akhildas H
 👋 A passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 I have a strong interest in building scalable web applications and delivering seamless user experiences. After completing a diploma in computer applications and a bootcamp, I focused on mastering **JavaScript** and backend development.  
-I've worked on multiple mini projects, including **e-commerce platforms**. I'm sharpening my skills in **Data Structures and Algorithms (DSA)** to enhance my problem-solving abilities. I'm always eager to explore new technologies and improve my development skills.
+I've worked on multiple mini projects, including **e-commerce platforms**. I'm sharpening my skills in **Data Structures and Algorithms (DSA)** to enhance my problem-solving abilities. I'm always eager to explore new technologies and improve my development skills. 
 
 ---
 
