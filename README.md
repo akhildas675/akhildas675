@@ -1,4 +1,5 @@
-# 💫 Hi <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="28" /> I'm Akhildas H
+#  💫 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Akhildas H
+
 
 👋 A passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 I have a strong interest in building scalable web applications and delivering seamless user experiences. After completing a diploma in computer applications and a bootcamp, I focused on mastering **JavaScript** and backend development.  
