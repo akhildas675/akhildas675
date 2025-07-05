@@ -1,4 +1,5 @@
- # 💫 Hi 👋🏻, I'm Akhildas H
+# 💫 Hi <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="28" /> I'm Akhildas H
+
 👋 A passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 I have a strong interest in building scalable web applications and delivering seamless user experiences. After completing a diploma in computer applications and a bootcamp, I focused on mastering **JavaScript** and backend development.  
 I've worked on multiple mini projects, including **e-commerce platforms**. I'm sharpening my skills in **Data Structures and Algorithms (DSA)** to enhance my problem-solving abilities. I'm always eager to explore new technologies and improve my development skills.  
@@ -7,37 +8,64 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 
 ## 🌐 Socials
 
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akhildas675)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675) 
-
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)  
+[![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/akhildas675)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675)  
 
 ---
 
 ## 💻 Tech Stack
+
 ### 🚀 Programming Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23000000.svg?style=for-the-badge&logo=redux&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23000000.svg?style=for-the-badge&logo=ejs&logoColor=black)  ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)  
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)  
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=white)  
+![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ### 🌐 Hosting & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23000000.svg?style=for-the-badge&logo=firebase)
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ---
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-## 📊 GitHub Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
+
+---
 
 ## 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhildas675&theme=transparent&hide_border=true)
 
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhildas675&theme=transparent&hide_border=true)
