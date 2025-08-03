@@ -9,7 +9,7 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 
 ## 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)  [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/akhildas675)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/akhildas_675)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)  [![X](https://img.shields.io/badge/X-000000?logo=X&logoColor=white)](https://x.com/akhildas675) 
 
 ---
 
