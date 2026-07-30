@@ -71,12 +71,12 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=highcontrast&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabelColor=ffffff" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165"/>
 </div>
 
 <br>
@@ -84,7 +84,7 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhildas675&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=akhildas675&theme=dark_dimmed&no-frame=true&row=1&column=6" />
 </div>
 
 <br>
@@ -92,18 +92,8 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
 </div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/akhildas675/akhildas675/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<sub><i>Note: the snake animation above needs a one-time GitHub Actions setup in your profile repo — see setup notes below.</i></sub>
 
 <br>
 
