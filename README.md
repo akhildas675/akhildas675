@@ -1,181 +1,50 @@
-<div align="center">
+#  💫 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Akhildas H
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0F0F,100:1F1F1F&text=Akhildas%20H&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=54&descSize=18"/>
 
-<br>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=F5F5F5&lines=Building+Scalable+MERN+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;TypeScript+%7C+REST+API+%7C+JWT+Authentication;Backend+Engineering;Clean+Architecture;System+Design"/>
-</a>
-
-<br><br>
-
-<a href="mailto:akhildas675@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/akhildas675">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/akhildas675">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=akhildas675&style=for-the-badge&label=Profile+Views&color=0e75b6"/>
-
-</div>
+👋 A passionate **Full Stack Developer** skilled in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
+I have a strong interest in building scalable web applications and delivering seamless user experiences. After completing a diploma in computer applications and a bootcamp, I focused on mastering **JavaScript** and backend development.  
+I've worked on multiple mini projects, including **e-commerce platforms**. I'm sharpening my skills in **Data Structures and Algorithms (DSA)** to enhance my problem-solving abilities. I'm always eager to explore new technologies and improve my development skills.  
 
 ---
 
-# 👋 About Me
+## 🌐 Socials
 
-```yaml
-Name: Akhildas H
-
-Role:
-  - Full Stack Developer (MERN)
-
-Currently Learning:
-  - Backend Engineering
-  - Software Architecture
-  - System Design
-  - Data Structures & Algorithms
-
-Interested In:
-  - SaaS Development
-  - Clean Architecture
-  - REST APIs
-  - Authentication & Authorization
-```
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675) 
 
 ---
 
-# 🚀 Current Focus
+## 💻 Tech Stack
 
-- Building scalable MERN applications
-- Backend Engineering
-- JWT Authentication
-- REST APIs
-- System Design
-- DSA Practice
+### 🚀 Programming Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)  ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)  ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=white)  ![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-# 💻 Tech Stack
+### 🗄️ Databases
 
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-
-### DevOps & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,render,firebase,nginx" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+### 🌐 Hosting & Cloud
 
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=akhildas675&theme=github-dark&hide_border=true"/>
-
-</p>
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)  ![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ---
 
-# 📈 Contribution Graph
+### 🛠️ Tools & Platforms
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akhildas675&theme=darkhub&no-frame=true&column=4"/>
-
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhildas675&theme=transparent&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&theme=transparent&hide_border=true&layout=compact)
 
 ---
 
-# 💬 Dev Quote
+## 🔝 Top Contributed Repo
 
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="mailto:akhildas675@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/akhildas675">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/akhildas675">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F1F1F,100:0F0F0F&section=footer"/>
-
-</div>
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=transparent&combine_all_yearly_contributions=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhildas675&theme=transparent&hide_border=true)
