@@ -68,35 +68,30 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabelColor=ffffff" height="165"/>
+<img src="https://raw.githubusercontent.com/akhildas675/akhildas675/main/github-metrics.svg" width="100%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165"/>
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhildas675&theme=dark_dimmed&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=akhildas675&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-</div>
+<sub><i>⚙️ This image is self-hosted and rebuilt automatically every 12 hours by a GitHub Action in this repo — it does not depend on a live third-party server, so it won't randomly stop loading. Setup steps are below.</i></sub>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ One-time setup for the self-hosted stats image (do this once)</summary>
+
+1. Create a repo named **exactly** `akhildas675/akhildas675` (this is the special "profile README" repo) if you haven't already, and push this `README.md` to it.
+2. Go to **github.com/settings/tokens** → generate a classic Personal Access Token with the `repo` scope.
+3. In your `akhildas675/akhildas675` repo, go to **Settings → Secrets and variables → Actions → New repository secret**, name it `METRICS_TOKEN`, and paste the token.
+4. Add the `metrics.yml` file (included alongside this README) into `.github/workflows/metrics.yml` in that repo.
+5. Go to the **Actions** tab, run the "Update profile metrics" workflow manually once — it'll generate `github-metrics.svg` in the repo root, which the image tag above already points to.
+6. After that, it regenerates itself automatically every 12 hours — no more broken images.
+
+</details>
