@@ -71,12 +71,10 @@ akhildas.whoami():
 <img src="https://raw.githubusercontent.com/akhildas675/akhildas675/main/github-metrics.svg" width="100%"/>
 </div>
 
-<sub align="center">⚙️ Self-hosted via GitHub Actions — rebuilds every 12 hrs, no third-party downtime. Setup below.</sub>
+<sub align="center">⚙️ Self-hosted via GitHub Actions — rebuilds every 12 hrs, no third-party downtime.</sub>
 
 <br><br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0d0d0d,100:000000&height=120&section=footer" width="100%"/>
 </div>
-
----
