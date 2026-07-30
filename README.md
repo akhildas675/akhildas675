@@ -1,17 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=220&section=header&text=Akhildas%20H&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20MERN%20Stack&descAlignY=52&descSize=17&stroke=333333&strokeWidth=1" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=E8E8E8&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+Stack+%F0%9F%9A%80;Frontend%3A+React+%2B+TailwindCSS;Sharpening+DSA+%26+Problem+Solving;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=akhildas675&label=Profile%20Views&color=1a1a1a&style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/github/followers/akhildas675?label=Followers&style=for-the-badge&color=1a1a1a&labelColor=000000"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:1f1f1f&text=Akhildas%20H&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20TypeScript&descAlignY=54&descSize=18&animation=fadeIn" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&center=true&vCenter=true&width=760&color=F5F5F5&lines=Building+Scalable+MERN+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;TypeScript+%7C+REST+APIs+%7C+JWT+Authentication;Learning+System+Design+and+Software+Architecture;Open+Source+Contributor+%26+Continuous+Learner" /> </a> <br><br> <img src="https://img.shields.io/github/followers/akhildas675?style=for-the-badge&logo=github&label=Followers&color=181717"/> <img src="https://img.shields.io/github/stars/akhildas675?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=181717"/> <img src="https://komarev.com/ghpvc/?username=akhildas675&style=for-the-badge&label=Profile+Views&color=181717"/> </div>
 
 <br>
 
