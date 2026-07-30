@@ -80,17 +80,3 @@ akhildas.whoami():
 </div>
 
 ---
-
-<details>
-<summary><b>⚙️ One-time setup for the self-hosted stats image</b></summary>
-<br>
-
-1. Create a repo named **exactly** `akhildas675/akhildas675` if you don't have it yet — this special repo name is what makes GitHub show its README on your profile page. Push this `README.md` into it.
-2. Go to **github.com/settings/tokens** → **Generate new token (classic)** → check the `repo` scope → generate and copy it.
-3. In the `akhildas675/akhildas675` repo: **Settings → Secrets and variables → Actions → New repository secret** → name it `METRICS_TOKEN` → paste the token → Save.
-4. Create the file `.github/workflows/metrics.yml` in that repo and paste in the `metrics.yml` content provided separately.
-5. Go to the **Actions** tab → select **"Update profile metrics"** → **Run workflow** to trigger it the first time.
-6. Wait ~1 minute, refresh your profile page — `github-metrics.svg` will now exist in the repo root, matching the image tag already in this README.
-7. From here on it regenerates itself automatically every 12 hours — nothing more to do.
-
-</details>
