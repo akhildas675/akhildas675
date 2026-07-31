@@ -1,20 +1,20 @@
 <h1 align="center">Akhildas H</h1>
-<h3 align="center">Full Stack Developer — MERN Stack</h3>
 
 <p align="center">
-📍 Kerala, India &nbsp;|&nbsp; 🟢 Open to full-time roles &amp; freelance work
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+MERN+Stack;Building+scalable+web+applications;Open+to+full-time+%26+freelance+work" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Repositories-36-1f6feb?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Contributions-601+-1f6feb?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Commits%20(1yr)-192-1f6feb?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Stars%20Earned-20-1f6feb?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1f6feb?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/akhildas675/akhildas675?style=flat-square&label=Last%20Active&color=1f6feb"/>
+<img src="https://img.shields.io/badge/Location-Kerala,%20India-1f6feb?style=flat-square"/>
+</p>
+
+<p align="center">
+MERN stack developer shipping production-ready applications — from database schema to deployed UI. Currently building a fitness/training platform and sharpening DSA fundamentals.
 </p>
 
 ---
-
-Full-stack developer building production-ready web applications on the **MERN stack** — from database schema to deployed UI. Shipped e-commerce platforms and full-stack tools; currently building the frontend for a fitness/training platform and sharpening DSA for system-design readiness.
 
 **Languages & Frameworks**
 <br>
@@ -28,13 +28,9 @@ Full-stack developer building production-ready web applications on the **MERN st
 
 <br>
 
-**Tooling**
+**Tools**
 <br>
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhildas675@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhildas675)
 
 ---
 
@@ -43,4 +39,12 @@ Full-stack developer building production-ready web applications on the **MERN st
 ![](https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhildas675&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
-[![](https://komarev.com/ghpvc/?username=akhildas675&icon=7&color=1f6feb)](https://visitcount.itsvg.in)
+
+<p align="center">
+<a href="mailto:akhildas675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/akhildas675"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=akhildas675&icon=7&color=1f6feb"/></a>
+</p>
