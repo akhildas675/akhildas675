@@ -5,9 +5,14 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-actively--interviewing-1f6feb?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-available-1f6feb?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/github/last-commit/akhildas675/akhildas675?style=flat-square&label=last%20push&color=1f6feb"/>
 <img src="https://img.shields.io/badge/location-kerala,%20india-1f6feb?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="mailto:akhildas675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/akhildas675"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -39,11 +44,6 @@ MERN stack developer shipping production-ready applications — from database sc
 ![](https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhildas675&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
-
-<p align="center">
-<a href="mailto:akhildas675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/akhildas675"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-</p>
 
 <p align="center">
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=akhildas675&icon=7&color=1f6feb"/></a>
