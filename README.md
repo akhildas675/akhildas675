@@ -24,14 +24,12 @@ I've worked on multiple mini projects, including **e-commerce platforms**. I'm s
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=white)
 
----
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/akhildas675/akhildas675/main/github-metrics.svg" width="100%"/>
-</div>
-
-<sub>⚙️ Self-hosted via GitHub Actions — regenerates every 12 hours, doesn't depend on third-party servers.</sub>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akhildas675&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhildas675&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=akhildas675&icon=7&color=1)](https://visitcount.itsvg.in)
+
+
