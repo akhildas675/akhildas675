@@ -1,13 +1,13 @@
 <h1 align="center">Akhildas H</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+MERN+Stack;Building+scalable+web+applications;Open+to+full-time+%26+freelance+work" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%94+MERN+Stack;Building+scalable+web+applications;git+commit+-m+%27ready+to+join+your+team%27" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1f6feb?style=flat-square"/>
-<img src="https://img.shields.io/github/last-commit/akhildas675/akhildas675?style=flat-square&label=Last%20Active&color=1f6feb"/>
-<img src="https://img.shields.io/badge/Location-Kerala,%20India-1f6feb?style=flat-square"/>
+<img src="https://img.shields.io/badge/status-actively--interviewing-1f6feb?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/akhildas675/akhildas675?style=flat-square&label=last%20push&color=1f6feb"/>
+<img src="https://img.shields.io/badge/location-kerala,%20india-1f6feb?style=flat-square"/>
 </p>
 
 <p align="center">
