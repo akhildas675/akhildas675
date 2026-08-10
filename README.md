@@ -96,7 +96,7 @@
 <div align="center">
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=akhildas675&theme=dark&hide_border=true&date_format=%5BY.%20m.%20d%5D" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+   
   </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
 </div>
