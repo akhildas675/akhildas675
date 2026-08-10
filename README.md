@@ -2,7 +2,7 @@
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46CqgZZixkK0Xa7O/giphy.gif" alt="Developer coding animation" width="420" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer coding animation" width="420" />
 </p>
 
 <p align="center">
