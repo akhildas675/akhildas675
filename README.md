@@ -93,7 +93,7 @@
       <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="YOUR_SOLEWAY_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
-      <img src="./assets/soleway.png" alt="SoleWay screenshot" width="100%" />
+      <img src="./assets/soleway-cover-photo.png" alt="SoleWay screenshot" width="100%" />
     </td>
   </tr>
 </table>
@@ -101,15 +101,15 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      <p><strong>Travel Explorer</strong><br><em>Travel destination discovery and booking experience</em></p>
+      <p><strong>WeatherHint</strong><br><em>Full-stack weather app</em></p>
       <ul>
-        <li>Destination search and booking flow</li>
-        <li><strong>Tech:</strong> React · Node.js · MongoDB</li>
+        <li>Searches weather, hourly forecasts, and favorites</li>
+        <li><strong>Tech:</strong> React · TypeScript · Vite · TanStack Query · Tailwind CSS · Recharts</li>
       </ul>
-      <p><a href="YOUR_TRAVEL_EXPLORER_LIVE_URL">Live Demo</a> · <a href="YOUR_TRAVEL_EXPLORER_REPO_URL">Repository</a></p>
+      <p><a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a> · <a href="YOUR_WEATHERHINT_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
-      <img src="./assets/travel.png" alt="Travel Explorer screenshot" width="100%" />
+      <img src="./assets/weather-hint.png" alt="WeatherHint screenshot" width="100%" />
     </td>
   </tr>
 </table>
