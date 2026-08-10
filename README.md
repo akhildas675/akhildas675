@@ -2,7 +2,7 @@
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&height=45&lines=Building+immersive+web+apps;Crafting+interactive+UIs;Delivering+clean+full-stack+solutions" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Live coding GIF" width="420" />
 </p>
 
 <p align="center">
@@ -10,6 +10,8 @@
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-181717?style=for-the-badge&logo=appveyor&logoColor=white&color=181717" alt="Portfolio"></a>
 </p>
+
+<p align="center"><strong>Tech:</strong> JavaScript · TypeScript · React · Redux · Tailwind CSS · Vite · Node.js · Express.js · MongoDB</p>
 
 ---
 
@@ -34,20 +36,6 @@
 
 ---
 
-## Tech Stack
-
-| Languages | Frontend | Backend | Database | Tools |
-|---|---|---|---|---|
-| JavaScript<br>TypeScript | React<br>Redux<br>Tailwind CSS<br>Vite | Node.js<br>Express.js | MongoDB<br>MySQL | Git<br>GitHub<br>VS Code<br>Postman<br>Figma |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,vite,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma" alt="Tech stack icons">
-</p>
-
----
-
-
-
 ## Featured Projects
 
 <table>
@@ -57,7 +45,7 @@
       <ul>
         <li>Tracks workouts, nutrition, sleep and daily activities</li>
         <li>Connects users with trainers</li>
-        <li><strong>Tech:</strong> MERN · TypeScript · Redux Toolkit · Tailwind CSS</li>
+        <li>Built with MERN, TypeScript, Redux Toolkit, Tailwind CSS</li>
       </ul>
       <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="YOUR_BODOMETER_REPO_URL">Repository</a></p>
     </td>
@@ -74,7 +62,7 @@
       <ul>
         <li>Authentication, cart, coupons, wallet and online payments</li>
         <li>Admin dashboard for product and order management</li>
-        <li><strong>Tech:</strong> Node.js · Express.js · MongoDB · EJS</li>
+        <li>Built with Node.js, Express.js, MongoDB, EJS</li>
       </ul>
       <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="YOUR_SOLEWAY_REPO_URL">Repository</a></p>
     </td>
@@ -90,7 +78,7 @@
       <p><strong>WeatherHint</strong><br><em>Full-stack weather app</em></p>
       <ul>
         <li>Searches weather, hourly forecasts, and favorites</li>
-        <li><strong>Tech:</strong> React · TypeScript · Vite · TanStack Query · Tailwind CSS · Recharts</li>
+        <li>Built with React, TypeScript, Vite, TanStack Query, Tailwind CSS, Recharts</li>
       </ul>
       <p><a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a> · <a href="YOUR_WEATHERHINT_REPO_URL">Repository</a></p>
     </td>
