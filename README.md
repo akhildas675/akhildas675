@@ -76,7 +76,7 @@
       <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="YOUR_BODOMETER_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
-      <img src="./assets/bodometer.png" alt="Bodometer screenshot" width="100%" />
+      <img src="./assets/bodometer-home.png" alt="Bodometer screenshot" width="100%" />
     </td>
   </tr>
 </table>
