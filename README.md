@@ -53,21 +53,37 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>Full-stack developer</li>
-        <li>Currently building <strong>Bodometer</strong></li>
-        <li>Learning <strong>Advanced TypeScript</strong>, <strong>System Design</strong> and <strong>DSA</strong></li>
-        <li>Passionate about backend architecture, <strong>SOLID</strong> and clean code</li>
-      </ul>
+    <td width="55%" valign="top">
+
+### 👨‍💻 Full Stack Developer
+
+I'm a **MERN Stack Developer** focused on building scalable,
+production-oriented web applications with **TypeScript, React,
+Node.js, Express.js, and MongoDB**.
+
+I enjoy designing **REST APIs**, implementing secure authentication,
+and structuring backend applications using **SOLID principles,
+Repository Pattern, and clean architecture**.
+
+Currently, I'm building **Bodometer**, a full-stack fitness platform
+with user, trainer, and admin workflows.
+
     </td>
-    <td width="50%" valign="top">
-      <p><strong>Role:</strong> MERN Stack Developer</p>
-      <p><strong>Main stack:</strong> JavaScript, TypeScript, React, Node.js, MongoDB</p>
+
+    <td width="45%" valign="top">
+
+### What I Work With
+
+- ⚛️ **Frontend** — React, TypeScript, Redux Toolkit
+- ⚙️ **Backend** — Node.js, Express.js, REST APIs
+- 🗄️ **Data** — MongoDB, PostgreSQL, Redis
+- 🔐 **Security** — JWT, RBAC, Cookie Authentication
+- ☁️ **Deployment** — AWS, Docker, NGINX
+- 🏗️ **Architecture** — SOLID, Repository Pattern, MVC, DI
+
     </td>
   </tr>
 </table>
-
 ---
 
 ## Featured Projects
