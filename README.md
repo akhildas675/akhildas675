@@ -1,8 +1,8 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="36" style="vertical-align:middle;border-radius:6px" />, I'm Akhildas H</h1>
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
-<p align="center" style="margin-top:12px;margin-bottom:8px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer coding animation" style="width:80%;max-width:900px;border-radius:12px;box-shadow:0 14px 40px rgba(0,0,0,0.35);margin:18px 0;display:block;" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer coding animation" width="420" />
 </p>
 <p align="center" style="margin-top:6px;margin-bottom:18px;color:#8b8b8b;font-size:14px;">Developer mode — building, debugging, shipping.</p>
 
