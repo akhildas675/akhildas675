@@ -16,6 +16,24 @@
  
 </p>
 
+
+## About Me
+
+
+I'm a **MERN Stack Developer** focused on building scalable,
+production-oriented web applications with **TypeScript, React,
+Node.js, Express.js, and MongoDB**.
+
+I enjoy designing **REST APIs**, implementing secure authentication,
+and structuring backend applications using **SOLID principles,
+Repository Pattern, and clean architecture**.
+
+Currently, I'm building **Bodometer**, a full-stack fitness platform
+with user, trainer, and admin workflows.
+
+  
+---
+
 ## Technical Skills
 
 ### Languages
@@ -49,42 +67,7 @@
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-## About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-### 👨‍💻 Full Stack Developer
-
-I'm a **MERN Stack Developer** focused on building scalable,
-production-oriented web applications with **TypeScript, React,
-Node.js, Express.js, and MongoDB**.
-
-I enjoy designing **REST APIs**, implementing secure authentication,
-and structuring backend applications using **SOLID principles,
-Repository Pattern, and clean architecture**.
-
-Currently, I'm building **Bodometer**, a full-stack fitness platform
-with user, trainer, and admin workflows.
-
-    </td>
-
-    <td width="45%" valign="top">
-
-### What I Work With
-
-- ⚛️ **Frontend** — React, TypeScript, Redux Toolkit
-- ⚙️ **Backend** — Node.js, Express.js, REST APIs
-- 🗄️ **Data** — MongoDB, PostgreSQL, Redis
-- 🔐 **Security** — JWT, RBAC, Cookie Authentication
-- ☁️ **Deployment** — AWS, Docker, NGINX
-- 🏗️ **Architecture** — SOLID, Repository Pattern, MVC, DI
-
-    </td>
-  </tr>
-</table>
----
 
 ## Featured Projects
 
