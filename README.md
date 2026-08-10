@@ -1,9 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Akhildas H</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="36" style="vertical-align:middle;border-radius:6px" />, I'm Akhildas H</h1>
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer coding animation" width="420" />
+<p align="center" style="margin-top:12px;margin-bottom:8px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Developer coding animation" style="width:80%;max-width:900px;border-radius:12px;box-shadow:0 14px 40px rgba(0,0,0,0.35);margin:18px 0;display:block;" />
 </p>
+<p align="center" style="margin-top:6px;margin-bottom:18px;color:#8b8b8b;font-size:14px;">Developer mode — building, debugging, shipping.</p>
 
 <p align="center">
   <a href="https://github.com/akhildas675"><img src="https://img.shields.io/badge/GitHub-akhildas675-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
@@ -47,7 +48,7 @@
         <li>Connects users with trainers</li>
         <li>Built with MERN, TypeScript, Redux Toolkit, Tailwind CSS</li>
       </ul>
-      <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="YOUR_BODOMETER_REPO_URL">Repository</a></p>
+      <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/bodometer-frontend.git">Frontend Repo</a> · <a href="https://github.com/akhildas675/bodometer-backend.git">Backend Repo</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/bodometer-home.png" alt="Bodometer screenshot" width="100%" />
@@ -64,7 +65,7 @@
         <li>Admin dashboard for product and order management</li>
         <li>Built with Node.js, Express.js, MongoDB, EJS</li>
       </ul>
-      <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="YOUR_SOLEWAY_REPO_URL">Repository</a></p>
+      <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/soleway-ecommerce.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/soleway-cover-photo.png" alt="SoleWay screenshot" width="100%" />
@@ -80,7 +81,7 @@
         <li>Searches weather, hourly forecasts, and favorites</li>
         <li>Built with React, TypeScript, Vite, TanStack Query, Tailwind CSS, Recharts</li>
       </ul>
-      <p><a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a> · <a href="YOUR_WEATHERHINT_REPO_URL">Repository</a></p>
+      <p><a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/weatherhint-frontend.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/weather-hint.png" alt="WeatherHint screenshot" width="100%" />
@@ -93,6 +94,10 @@
 ## Contribution Activity
 
 <div align="center">
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=akhildas675&theme=dark&hide_border=true&date_format=%5BY.%20m.%20d%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
 </div>
 
