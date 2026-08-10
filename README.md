@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="36" style="vertical-align:middle;border-radius:6px" />, I'm Akhildas H</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="wave" width="36" style="vertical-align:middle;border-radius:6px" />, I'm Akhildas - H</h1>
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
 <p align="center">
