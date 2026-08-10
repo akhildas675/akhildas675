@@ -80,7 +80,9 @@ with user, trainer, and admin workflows.
         <li>Connects users with trainers</li>
         <li>Built with MERN, TypeScript, Redux Toolkit, Tailwind CSS</li>
       </ul>
-      <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/bodometer-frontend.git">Frontend Repo</a> · <a href="https://github.com/akhildas675/bodometer-backend.git">Backend Repo</a></p>
+      <p>
+        <!-- <a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · -->
+        <a href="https://github.com/akhildas675/bodometer-frontend.git">Frontend Repo</a> · <a href="https://github.com/akhildas675/bodometer-backend.git">Backend Repo</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/bodometer-home.png" alt="Bodometer screenshot" width="100%" />
@@ -97,7 +99,9 @@ with user, trainer, and admin workflows.
         <li>Admin dashboard for product and order management</li>
         <li>Built with Node.js, Express.js, MongoDB, EJS</li>
       </ul>
-      <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/soleway-ecommerce.git">Repository</a></p>
+      <p>
+        <!-- <a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · -->
+        <a href="https://github.com/akhildas675/soleway-ecommerce.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/soleway-cover-photo.png" alt="SoleWay screenshot" width="100%" />
@@ -113,7 +117,9 @@ with user, trainer, and admin workflows.
         <li>Searches weather, hourly forecasts, and favorites</li>
         <li>Built with React, TypeScript, Vite, TanStack Query, Tailwind CSS, Recharts</li>
       </ul>
-      <p><a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a> · <a href="https://github.com/akhildas675/weatherhint-frontend.git">Repository</a></p>
+      <p>
+        <!-- <a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a>  -->
+        · <a href="https://github.com/akhildas675/weatherhint-frontend.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/weather-hint.png" alt="WeatherHint screenshot" width="100%" />
