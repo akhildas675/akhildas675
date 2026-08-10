@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/akhildas675"><img src="https://img.shields.io/badge/GitHub-akhildas675-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-181717?style=for-the-badge&logo=appveyor&logoColor=white&color=181717" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/akhildas675/"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"></a>
+ 
 </p>
 
 <p align="center"><strong>Tech:</strong> JavaScript · TypeScript · React · Redux · Tailwind CSS · Vite · Node.js · Express.js · MongoDB</p>
@@ -119,5 +119,5 @@
 ## Connect
 
 - GitHub: [akhildas675](https://github.com/akhildas675)
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/akhildas675/)
+
