@@ -2,6 +2,10 @@
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&height=45&lines=Building+immersive+web+apps;Crafting+interactive+UIs;Delivering+clean+full-stack+solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/akhildas675"><img src="https://img.shields.io/badge/GitHub-akhildas675-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-181717?style=for-the-badge&logo=appveyor&logoColor=white&color=181717" alt="Portfolio"></a>
