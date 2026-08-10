@@ -16,7 +16,11 @@
  
 </p>
 
-<p align="center"><strong>Tech:</strong> JavaScript · TypeScript · React · Redux · Tailwind CSS · Vite · Node.js · Express.js · MongoDB</p>
+## 💻 Tech Stack
+
+### 🚀 Programming Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=green)  ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=white)  ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=white)  ![EJS](https://img.shields.io/badge/EJS-0d1117?style=for-the-badge&logo=ejs&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
