@@ -2,10 +2,9 @@
 <p align="center">MERN Stack Developer focused on clean architecture, backend-first systems, and modern full-stack experiences.</p>
 
 <p align="center">
-  <a href="https://github.com/akhildas675"><img src="https://img.shields.io/badge/GitHub-akhildas675-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-5C6AC4?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:akhildashb@gmail.com"><img src="https://img.shields.io/badge/Email-akhildashb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/akhildas675"><img src="https://img.shields.io/badge/GitHub-akhildas675-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white&color=181717" alt="LinkedIn"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-181717?style=for-the-badge&logo=appveyor&logoColor=white&color=181717" alt="Portfolio"></a>
 </p>
 
 ---
@@ -24,8 +23,6 @@
     </td>
     <td width="50%" valign="top">
       <p><strong>Role:</strong> MERN Stack Developer</p>
-      <p><strong>Location:</strong> Palakkad, India</p>
-      <p><strong>Email:</strong> akhildas675@gmail.com</p>
       <p><strong>Main stack:</strong> JavaScript, TypeScript, React, Node.js, MongoDB</p>
     </td>
   </tr>
@@ -45,16 +42,15 @@
 
 ---
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhildas675&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhildas675&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
 </div>
 
 ---
 
-## Contribution Activity
+## Featured Projects
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph">
@@ -132,4 +128,3 @@
 - GitHub: [akhildas675](https://github.com/akhildas675)
 - LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
 - Portfolio: [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-- Email: [akhildashb@gmail.com](mailto:akhildashb@gmail.com)
