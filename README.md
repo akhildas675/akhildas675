@@ -24,7 +24,8 @@
     </td>
     <td width="50%" valign="top">
       <p><strong>Role:</strong> MERN Stack Developer</p>
-  
+      <p><strong>Location:</strong> Palakkad, India</p>
+      <p><strong>Email:</strong> akhildas675@gmail.com</p>
       <p><strong>Main stack:</strong> JavaScript, TypeScript, React, Node.js, MongoDB</p>
     </td>
   </tr>
