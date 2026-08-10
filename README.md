@@ -119,5 +119,5 @@
 ## Connect
 
 - GitHub: [akhildas675](https://github.com/akhildas675)
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/akhildas675/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/akhildas675/)
 
