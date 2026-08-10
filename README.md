@@ -14,16 +14,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      - Full-stack developer
-      - Currently building **Bodometer**
-      - Learning **TypeScript**, **System Design** and **DSA**
-      - Interested in backend architecture, **SOLID** and clean code
+      <ul>
+        <li>Full-stack developer</li>
+        <li>Currently building <strong>Bodometer</strong></li>
+        <li>Learning <strong>TypeScript</strong>, <strong>System Design</strong> and <strong>DSA</strong></li>
+        <li>Interested in backend architecture, <strong>SOLID</strong> and clean code</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      **Role:** MERN Stack Developer<br>
-      **Location:** Palakkad, India<br>
-      **Email:** akhildashb@gmail.com<br>
-      **Working on:** JavaScript, React, Node.js, MongoDB
+      <p><strong>Role:</strong> MERN Stack Developer</p>
+      <p><strong>Location:</strong> Palakkad, India</p>
+      <p><strong>Email:</strong> akhildashb@gmail.com</p>
+      <p><strong>Working on:</strong> JavaScript, React, Node.js, MongoDB</p>
     </td>
   </tr>
 </table>
@@ -64,13 +66,13 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      ### Bodometer
-      **Fitness & lifestyle platform**
-      - Tracks workouts, nutrition, sleep and daily activities
-      - Connects users with trainers
-      - **Tech:** MERN · TypeScript · Redux Toolkit · Tailwind CSS
-      - [Live Demo](YOUR_BODOMETER_LIVE_URL)
-      - [Repository](YOUR_BODOMETER_REPO_URL)
+      <p><strong>Bodometer</strong><br><em>Fitness &amp; lifestyle platform</em></p>
+      <ul>
+        <li>Tracks workouts, nutrition, sleep and daily activities</li>
+        <li>Connects users with trainers</li>
+        <li><strong>Tech:</strong> MERN · TypeScript · Redux Toolkit · Tailwind CSS</li>
+      </ul>
+      <p><a href="YOUR_BODOMETER_LIVE_URL">Live Demo</a> · <a href="YOUR_BODOMETER_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/bodometer.png" alt="Bodometer screenshot" width="100%" />
@@ -81,13 +83,13 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      ### SoleWay
-      **Full-stack shoe e-commerce application**
-      - Authentication, cart, coupons, wallet and online payments
-      - Admin dashboard for order and product management
-      - **Tech:** Node.js · Express.js · MongoDB · EJS
-      - [Live Demo](YOUR_SOLEWAY_LIVE_URL)
-      - [Repository](YOUR_SOLEWAY_REPO_URL)
+      <p><strong>SoleWay</strong><br><em>Full-stack shoe e-commerce application</em></p>
+      <ul>
+        <li>Authentication, cart, coupons, wallet and online payments</li>
+        <li>Admin dashboard for order and product management</li>
+        <li><strong>Tech:</strong> Node.js · Express.js · MongoDB · EJS</li>
+      </ul>
+      <p><a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · <a href="YOUR_SOLEWAY_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/soleway.png" alt="SoleWay screenshot" width="100%" />
@@ -98,12 +100,12 @@
 <table>
   <tr>
     <td width="45%" valign="top">
-      ### Travel Explorer
-      **Travel and destination exploration experience**
-      - Destination search and booking flow
-      - **Tech:** React · Node.js · MongoDB
-      - [Live Demo](YOUR_TRAVEL_EXPLORER_LIVE_URL)
-      - [Repository](YOUR_TRAVEL_EXPLORER_REPO_URL)
+      <p><strong>Travel Explorer</strong><br><em>Travel and destination exploration experience</em></p>
+      <ul>
+        <li>Destination search and booking flow</li>
+        <li><strong>Tech:</strong> React · Node.js · MongoDB</li>
+      </ul>
+      <p><a href="YOUR_TRAVEL_EXPLORER_LIVE_URL">Live Demo</a> · <a href="YOUR_TRAVEL_EXPLORER_REPO_URL">Repository</a></p>
     </td>
     <td width="55%" valign="top">
       <img src="./assets/travel.png" alt="Travel Explorer screenshot" width="100%" />
