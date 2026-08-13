@@ -134,11 +134,11 @@ with user, trainer, and admin workflows.
 <div align="center">
 
   <p>
-    <img
-      src="https://streak-stats.demolab.com/?user=akhildas675&theme=dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </p>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=akhildas675&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=akhildas675&theme=github-dark&hide_border=true&area=true"
