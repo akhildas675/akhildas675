@@ -20,16 +20,11 @@
 ## About Me
 
 
-I'm a **MERN Stack Developer** focused on building scalable,
-production-oriented web applications with **TypeScript, React,
-Node.js, Express.js, and MongoDB**.
+Full Stack Developer focused on building scalable, production-oriented applications and continuously learning across modern technologies.
 
-I enjoy designing **REST APIs**, implementing secure authentication,
-and structuring backend applications using **SOLID principles,
-Repository Pattern, and clean architecture**.
+Interested in software architecture, backend development, RESTful APIs, authentication, and building maintainable systems using clean code and sound engineering principles.
 
-Currently, I'm building **Bodometer**, a full-stack fitness platform
-with user, trainer, and admin workflows.
+Currently building Bodometer, a full-stack fitness platform with user, trainer, and admin workflows.
 
   
 ---
