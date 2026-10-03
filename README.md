@@ -32,37 +32,61 @@ Currently building Bodometer, a full-stack fitness platform with user, trainer, 
 ## Technical Skills
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6%2B-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=zustand&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=FFFFFF)
 
-### Database
+### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![NGINX](https://img.shields.io/badge/NGINX-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![PM2](https://img.shields.io/badge/PM2-0d1117?style=flat-square&logo=pm2&logoColor=FFFFFF)
+
+### Authentication & Security
+
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
+![Cookie Authentication](https://img.shields.io/badge/Cookie_Authentication-0d1117?style=flat-square&logo=cookiecutter&logoColor=FFFFFF)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-0d1117?style=flat-square&logo=letsencrypt&logoColor=FFFFFF)
+
+### Architecture & Engineering
+
+- SOLID Principles
+- Repository Pattern
+- MVC Architecture
+- Dependency Injection
+- DTO Mapping
+- Clean Code
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-
 
 ## Featured Projects
 
@@ -161,4 +185,7 @@ Currently building Bodometer, a full-stack fitness platform with user, trainer, 
 
 - GitHub: [akhildas675](https://github.com/akhildas675)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/akhildas675/)
+
+
+
 
