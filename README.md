@@ -76,7 +76,7 @@ Currently building Bodometer, a full-stack fitness platform with user, trainer, 
         <li>Built with MERN, TypeScript, Redux Toolkit, Tailwind CSS</li>
       </ul>
       <p>
-        <a href="www.bodometer.online">Live Demo</a> ·
+        <a href="www.bodometer.online">Live Demo</a> <p>WIP</p> ·
         <a href="https://github.com/akhildas675/bodometer-frontend.git">Frontend Repo</a> · <a href="https://github.com/akhildas675/bodometer-backend.git">Backend Repo</a></p>
     </td>
     <td width="55%" valign="top">
