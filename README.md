@@ -113,7 +113,7 @@ Currently building Bodometer, a full-stack fitness platform with user, trainer, 
         <li>Built with React, TypeScript, Vite, TanStack Query, Tailwind CSS, Recharts</li>
       </ul>
       <p>
-        <!-- <a href="YOUR_WEATHERHINT_LIVE_URL">Live Demo</a>  -->
+        <a href="https://weatherhint.vercel.app/">Live Demo</a> 
         · <a href="https://github.com/akhildas675/weatherhint-frontend.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
