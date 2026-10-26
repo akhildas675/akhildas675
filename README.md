@@ -119,7 +119,7 @@ Currently building Bodometer, a full-stack fitness platform with user, trainer, 
         <li>Built with Node.js, Express.js, MongoDB, EJS</li>
       </ul>
       <p>
-        <!-- <a href="YOUR_SOLEWAY_LIVE_URL">Live Demo</a> · -->
+        <a href="https://soleway-ecommerce.onrender.com/">Live Demo</a> ·
         <a href="https://github.com/akhildas675/soleway-ecommerce.git">Repository</a></p>
     </td>
     <td width="55%" valign="top">
